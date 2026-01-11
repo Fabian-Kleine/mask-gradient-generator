@@ -1,7 +1,7 @@
-import { ComponentExample } from "@/components/component-example";
+import { MaskGradientGenerator } from "@/components/mask-gradient-generator";
 
 export function App() {
-return <ComponentExample />;
+	return <MaskGradientGenerator />
 }
 
 export default App;
